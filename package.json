@@ -1,0 +1,34 @@
+{
+  "name": "mocha-phantomjs-nagios",
+  "version": "0.0.0",
+  "author": "Michael Robinson <mike@brownpaperbag.co.nz>",
+  "description": "Provides a framework for running front end tests that output nagios-compatible messages",
+  "contributors": [
+    {
+      "name": "Michael Robinson",
+      "email": "mike@brownpaperbag.co.nz"
+    },
+    {
+      "name": "Oran Fry",
+      "email": "oran@brownpaperbag.co.nz"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrownPaperBag/mocha-phantomjs-nagios"
+  },
+  "devDependencies": {
+    "mocha": "",
+    "should": "",
+    "rewire": ""
+  },
+  "dependencies": {
+    "mocha": "",
+    "should": "",
+    "rewire": "",
+    "phantomjs": "",
+    "node-phantom": "",
+    "portfinder": "",
+    "minimist": ""
+  }
+}
