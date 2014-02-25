@@ -3,6 +3,7 @@ var argv = require('minimist')(process.argv.slice(2));
 
 function usage() {
   console.log('Usage: node run-tests --test-directory <location-of-your-tests>');
+  console.log('e.g. node run-tests --test-directory examples');
 }
 
 var testDirectory = argv['test-directory'];
