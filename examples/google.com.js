@@ -3,7 +3,7 @@
 var should = require('should');
 
 describe('google.com', function() {
-  this.timeout(910000);
+  this.timeout(10000);
 
   describe('Homepage', function() {
     it('should have status of "success"', function(done) {
